@@ -95,7 +95,7 @@ h1 {
     cursor: pointer;
 }
 .payment:hover{
-    color: #766CF1;
+    background-color: #766CF1;
 }
 .proceed{
     color: white;
